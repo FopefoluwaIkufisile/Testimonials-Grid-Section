@@ -7,7 +7,7 @@ padding: 10px 0;
 width: 100%;
 border: 1px solid var(--moderate-violet);
 text-align: center;
-font-size: 11px;
+font-size: 14px;
 }
 :root{
     --moderate-violet: hsl(263, 55%, 52%);
