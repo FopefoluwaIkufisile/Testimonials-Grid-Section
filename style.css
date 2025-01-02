@@ -124,6 +124,9 @@ body{
     background-color: var(--white-bg);
 }
 @media(max-width: 800px){
+    body{
+        padding: 40px 30px;
+    }
     .container{
         display: flex;
         flex-direction: column;
